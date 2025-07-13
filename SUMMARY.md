@@ -7,6 +7,7 @@
 	  * 聊天艺术
 		* [语言梗](./words/meme/语言梗/README.md)
 		* [语言交流](./words/meme/语言交流/README.md)
+		* [情绪交流](./words/meme/情绪交流/README.md)
 	  * 撩人情话
 		* [情景一【早上篇】](./words/chat/早上篇/README.md)
 		* [情景二【晚上篇】](./words/chat/晚上篇/README.md)
@@ -21,6 +22,7 @@
 * 人性收录
   * [看透人性](./words/human/看透人性/README.md)
   * [驭人术](./words/human/驭人术/README.md)
+  * [阅读理解](./words/human/阅读理解/README.md)
 * 表情收录
 	* [熊猫](./picture/熊猫/README.md)
 	* [蘑菇头](./picture/蘑菇头/README.md)
