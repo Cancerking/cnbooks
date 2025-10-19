@@ -1,7 +1,7 @@
 # Summary
 
 * [语言收录](README.md)
-	* 语录一
+<!-- 	* 语录一
 	  * [幽默语录](./words/humor/幽默语录/README.md)
 		* [幽默回复谢谢](./words/humor/幽默回复谢谢/README.md)
 	  * 聊天艺术
@@ -25,4 +25,4 @@
   * [阅读理解](./words/human/阅读理解/README.md)
 * 表情收录
 	* [熊猫](./picture/熊猫/README.md)
-	* [蘑菇头](./picture/蘑菇头/README.md)
+	* [蘑菇头](./picture/蘑菇头/README.md) -->
